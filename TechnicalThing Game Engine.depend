@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1484595616 source:/home/peilot/Skrivbord/C++Programming/CppProjects/TechnicalThing Game Engine/main.cpp
+	<iostream>
+
+1484595972 source:/home/peilot/Skrivbord/C++Programming/CppProjects/TechnicalThing Game Engine/src/RenderEngine.cpp
+	"RenderEngine.h"
+
+1484595538 /home/peilot/Skrivbord/C++Programming/CppProjects/TechnicalThing Game Engine/include/RenderEngine.h
+	<vector>
+	<GL/glew.h>
+
+1469321017 /home/peilot/Skrivbord/C++Programming/glew-2.0.0/include/GL/glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
